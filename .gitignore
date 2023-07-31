@@ -1,0 +1,20 @@
+#.gitignore rules
+#在线浏览gitignore配置文件：https://github.com/github/gitignore
+#假设我在Windows下进行Python开发，可能需要排除以下文件
+#Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.*
+#python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+# My configurations:
+db.ini
+deploy_key_rsa
+#设置例外
+!.gitignore
