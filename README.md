@@ -5,4 +5,5 @@ The README.md document record what I have learned
 3.version rollback
 4.Undo, modify, and delete files
 5.clone remote libraries
+6.Create and merge branches( --no-ff)
 
